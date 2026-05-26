@@ -26,6 +26,17 @@ A production-grade URL shortener built with **Node.js**, **Express**, and **SQLi
 
 ---
 
+## Screenshots
+
+![Main Interface](URL%20Shortner%201.png)
+
+![Dashboard](URL%20Shortner%202.png)
+
+![API Test](CMD%202.png)
+
+![Tests](CMD%201.png)
+
+
 ## Tech Stack
 
 | Layer        | Technology                |
