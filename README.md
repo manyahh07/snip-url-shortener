@@ -28,7 +28,6 @@ A production-grade URL shortener built with **Node.js**, **Express**, and **SQLi
 
 ## Screenshots
 
-```md
 ![Main Interface](screenshots/url-shortener-1.png)
 
 ![Dashboard](screenshots/url-shortener-2.png)
@@ -36,7 +35,7 @@ A production-grade URL shortener built with **Node.js**, **Express**, and **SQLi
 ![API Test](screenshots/cmd-2.png)
 
 ![Tests](screenshots/cmd-1.png)
-```
+
 
 ## Tech Stack
 
