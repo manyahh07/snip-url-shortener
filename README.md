@@ -28,14 +28,15 @@ A production-grade URL shortener built with **Node.js**, **Express**, and **SQLi
 
 ## Screenshots
 
-![Main Interface](URL%20Shortner%201.png)
+```md
+![Main Interface](screenshots/url-shortener-1.png)
 
-![Dashboard](URL%20Shortner%202.png)
+![Dashboard](screenshots/url-shortener-2.png)
 
-![API Test](CMD%202.png)
+![API Test](screenshots/cmd-2.png)
 
-![Tests](CMD%201.png)
-
+![Tests](screenshots/cmd-1.png)
+```
 
 ## Tech Stack
 
@@ -260,4 +261,4 @@ URLs are deactivated (`is_active = 0`) rather than hard-deleted to preserve anal
 
 ## License
 
-MIT © Your Name
+MIT © Manya Singh
